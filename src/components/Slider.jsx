@@ -20,7 +20,7 @@ const Slider = () => {
     const runningTimeRef = useRef(null);
 
     const timeRunning = 3000;
-    const timeAutoNext = 4000;
+    const timeAutoNext = 7000;
 
     useEffect(() => {
         const resetTimeAnimation = () => {
