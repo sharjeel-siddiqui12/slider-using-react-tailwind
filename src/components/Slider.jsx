@@ -8,11 +8,11 @@ import '../App.css';
 
 const Slider = () => {
     const [sliderItems, setSliderItems] = useState([
-        { name: 'Building1', image: 'images/building1.jpg', description: 'Lorem ipsum dolor sit amet consectetur, adipisicing elit. Officiis culpa similique consequuntur, reprehenderit dicta repudiandae.' },
-        { name: 'Building2', image: 'images/building2.jpg', description: 'Lorem ipsum dolor sit amet consectetur, adipisicing elit. Officiis culpa similique consequuntur, reprehenderit dicta repudiandae.' },
-        { name: 'Building3', image: 'images/building3.jpg', description: 'Lorem ipsum dolor sit amet consectetur, adipisicing elit. Officiis culpa similique consequuntur, reprehenderit dicta repudiandae.' },
-        { name: 'Building4', image: 'images/building4.jpg', description: 'Lorem ipsum dolor sit amet consectetur, adipisicing elit. Officiis culpa similique consequuntur, reprehenderit dicta repudiandae.' },
-        { name: 'Building5', image: 'images/building5.jpg', description: 'Lorem ipsum dolor sit amet consectetur, adipisicing elit. Officiis culpa similique consequuntur, reprehenderit dicta repudiandae.' },
+        { name: 'Building1', image: '/images/building1.jpg', description: 'Lorem ipsum dolor sit amet consectetur, adipisicing elit. Officiis culpa similique consequuntur, reprehenderit dicta repudiandae.' },
+        { name: 'Building2', image: '/images/building2.jpg', description: 'Lorem ipsum dolor sit amet consectetur, adipisicing elit. Officiis culpa similique consequuntur, reprehenderit dicta repudiandae.' },
+        { name: 'Building3', image: '/images/building3.jpg', description: 'Lorem ipsum dolor sit amet consectetur, adipisicing elit. Officiis culpa similique consequuntur, reprehenderit dicta repudiandae.' },
+        { name: 'Building4', image: '/images/building4.jpg', description: 'Lorem ipsum dolor sit amet consectetur, adipisicing elit. Officiis culpa similique consequuntur, reprehenderit dicta repudiandae.' },
+        { name: 'Building5', image: '/images/building5.jpg', description: 'Lorem ipsum dolor sit amet consectetur, adipisicing elit. Officiis culpa similique consequuntur, reprehenderit dicta repudiandae.' },
        
     ]);
 
