@@ -82,7 +82,7 @@ const Slider = () => {
                         <div className="content absolute top-[50%] left-[100px] -translate-y-[50%] w-[400px] text-left text-[#fff] hidden max-md:left-[50px] max-sd:top-[40%]">
                             <div className="title text-[100px] uppercase text-[#ff4141cb] font-bold leading-none opacity-0 animate-conTitle max-sd:text-[45px]">SLIDER</div>
                             <div className="name text-[100px] uppercase font-bold leading-none opacity-0 text-shadow animate-conName max-md:text-[70px] max-sd:text-[45px]">{item.name}</div>
-                            <div className="des mt-[10px] mb-[20px] text-[18px] ml-[5px] opacity-0 animate-conDes max-md:text-[16px] max-sd:mr-[15px]">{item.description}</div>
+                            <div className="des mt-[10px] mb-[20px] text-[18px] ml-[5px] opacity-0 animate-conDes max-md:text-[16px] max-sd:mr-[120px]">{item.description}</div>
                             <div className="btn ml-[5px] opacity-0 animate-conBtn">
                                 <button className='px-[20px] py-[10px]  cursor-pointer text-[16px] border-2 border-white bg-white text-black max-sd:px-[10px] max-sd:py-[15px] max-sd:text-[14px]' >See More</button>
                                 <button className='px-[20px] py-[10px]  cursor-pointer text-[16px] ml-[15px] bg-transparent text-[#14ff72cb] border-2 border-white transition-[0.5s] hover:bg-[#ff4141cb] text-white border-[#14ff72cb] max-sd:px-[10px] max-sd:py-[15px] max-sd:text-[14px]' >Subscribe</button>
