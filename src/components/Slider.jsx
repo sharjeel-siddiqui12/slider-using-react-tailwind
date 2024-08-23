@@ -92,7 +92,7 @@ const Slider = () => {
                 ))}
             </div>
 
-            <div className="arrows absolute mt-[30px] top-[80%] right-[52%] z-[100] w-[300px] max-w-[30%] flex gap-[10px] align-middle">
+            <div className="arrows absolute mt-[60px] top-[80%] right-[52%] z-[100] w-[300px] max-w-[30%] flex gap-[10px] align-middle">
                 <button className="prev w-[50px] h-[50px] rounded-[50%] bg-[#ff4141cb] text-[#fff] border-none outline-none text-[16px] font-mono font-bold transition-all cursor-pointer hover:bg-[#fff] hover:text-[#ff4141cb]">&lt;</button>
                 <button className="next w-[50px] h-[50px] rounded-[50%] bg-[#ff4141cb] text-[#fff] border-none outline-none text-[16px] font-mono font-bold transition-all cursor-pointer hover:bg-[#fff] hover:text-[#ff4141cb]">&gt;</button>
             </div>
