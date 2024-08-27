@@ -11,7 +11,7 @@ This project is a simple implementation of a slider component using React and Ta
 - Keyboard navigation
 
 ## Installation
-1. Clone the repository: `git clone https://github.com/your-username/slider-using-react-tailwind.git`
+1. Clone the repository: `git clone https://github.com/sharjeel-siddiqui12/slider-using-react-tailwind.git`
 2. Navigate to the project directory: `cd slider-using-react-tailwind`
 3. Install dependencies: `npm install`
 
